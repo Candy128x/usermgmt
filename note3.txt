@@ -3,6 +3,9 @@ proj: usermgmt
 ~ make curd appn using redis.
 tech: redis, nodejs,
 
-remtrdsusr: https://github.com/ashish1997it/usermgmt.git
+remtrdsusr: 
+https://github.com/Candy128x/usermgmt.git
+https://github.com/ashish1997it/usermgmt.git
+
 brnrdsusr
 brnrdsusro
