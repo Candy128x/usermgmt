@@ -1,8 +1,0 @@
-proj: usermgmt
-180821
-~ make curd appn using redis.
-tech: redis, nodejs,
-
-remtrdsusr: https://github.com/Candy128x/usermgmt.git
-brnrdsusr
-brnrdsusro
